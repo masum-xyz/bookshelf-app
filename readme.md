@@ -22,7 +22,7 @@ Bookshelf App adalah aplikasi web yang memungkinkan pengguna untuk mengelola kol
 
 Untuk memulai menggunakan Bookshelf App, ikuti langkah-langkah berikut:
 
-1. Clone repositori ini: `git clone https://github.com/your-username/bookshelf-app.git`
+1. Clone repositori ini: `git clone https://github.com/masum-xyz/bookshelf-app.git`
 2. Buka proyek di editor kode pilihan Anda.
 3. Buka `index.html` di web browser Anda.
 
